@@ -6,3 +6,5 @@ The following have been adapted:
 * buzzword.bas
 * love.bas
 * stars.bas
+
+To run in the FoenixIDE emulator in F256 board mode, they rely on F256 RNG emulation which was added with [this pull request](https://github.com/Trinity-11/FoenixIDE/pull/40).
