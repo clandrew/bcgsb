@@ -9,4 +9,8 @@ The following have been adapted:
 
 To run in the FoenixIDE emulator in F256 board mode, they rely on F256 RNG emulation which was added with [this pull request](https://github.com/Trinity-11/FoenixIDE/pull/40).
 
+Examples:
+
+![alt text](https://raw.githubusercontent.com/clandrew/bcgsb/main/Images/stars.bas.PNG?raw=true)
+
 ![alt text](https://raw.githubusercontent.com/clandrew/bcgsb/main/Images/love.bas.PNG?raw=true)
