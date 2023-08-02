@@ -8,3 +8,5 @@ The following have been adapted:
 * stars.bas
 
 To run in the FoenixIDE emulator in F256 board mode, they rely on F256 RNG emulation which was added with [this pull request](https://github.com/Trinity-11/FoenixIDE/pull/40).
+
+![alt text](https://raw.githubusercontent.com/clandrew/bcgsb/main/Images/love.bas.PNG?raw=true)
